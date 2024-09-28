@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow the steps below to set up the project on your local machine.
 
-1. **Clone the repository**:
+**Clone the repository**:
 
    ```bash
    git clone https://github.com/ashishkushwah1/xeta-assignment.git
