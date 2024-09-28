@@ -14,12 +14,11 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow the steps below to set up the project on your local machine.
 
-**Clone the repository**:
+##Clone the repository
 
    ```bash
    git clone https://github.com/ashishkushwah1/xeta-assignment.git
    cd xeta-assignment
    npm install
    npm run dev
-Once the server is up, you can access the app in your browser at:
-http://localhost:5173/
+
