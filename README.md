@@ -1,8 +1,25 @@
-# React + Vite
+# FitSnap AI Camera Installation Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React.js-based application, built using **Vite** as the build tool and **Tailwind CSS** for styling.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before you begin, ensure you have the following installed on your system:
+
+- **Node.js** (LTS version recommended): [Download Node.js](https://nodejs.org/)
+- **Git** (for version control): [Download Git](https://git-scm.com/)
+- A package manager like **npm** (comes with Node.js) or **yarn**.
+
+## Installation Steps
+
+Follow the steps below to set up the project on your local machine.
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/FitSnap-Assignment.git
+   cd xeta-assignment
+   npm install
+   npm run dev
+Once the server is up, you can access the app in your browser at:
+http://localhost:5173/
